@@ -4,4 +4,4 @@ Functions for plotting cricket visuals using matplotlib
 
 ## Examples 
 
-![runrate]('./runrate.png')
+![manhattan]('https://github.com/Rit-ctrl/Vizzes/blob/main/manhattan.png)
